@@ -1,8 +1,14 @@
 {
-    "name": "stephen/micro.dev",
+    "name": "steviebiddles/symfony-micro-kernel.dev",
     "type": "project",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
     "require": {
-        "symfony/symfony": "3.2"
+        "symfony/symfony": "^3.2",
+        "sensio/framework-extra-bundle": "^3.0"
     },
     "authors": [
         {
