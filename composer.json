@@ -1,0 +1,13 @@
+{
+    "name": "stephen/micro.dev",
+    "type": "project",
+    "require": {
+        "symfony/symfony": "3.2"
+    },
+    "authors": [
+        {
+            "name": "Stephen McAuley",
+            "email": "steviebiddles@gmail.com"
+        }
+    ]
+}

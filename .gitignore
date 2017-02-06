@@ -1,0 +1,8 @@
+# Cache and logs
+/cache/*
+/logs/*
+!/cache/.gitkeep
+!/logs/.gitkeep
+
+# Managed by Composer
+/vendor/
